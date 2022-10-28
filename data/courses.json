@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "JavaScript",
-        "description": "",
+        "description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
         "image": "https://i.ibb.co/1TtSwbx/Java-Script-logo.png",
         "total_view": 10,
         "price": "10"
